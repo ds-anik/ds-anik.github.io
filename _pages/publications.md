@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+<br><br>
+
 {% include base_path %}
 {% if author.googlescholar %}
 You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
@@ -13,8 +15,6 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 - [Conference Papers](#conference-papers)
 - [Journal Articles](#journal-articles)
 - [Preprints or Under Review](#preprints-or-under-review)
-
-<br><br>
 
 ## Conference Papers
 
