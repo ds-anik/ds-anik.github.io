@@ -9,4 +9,5 @@ venue: "MMM 2023 - 29th International Conference on MultiMedia Modeling"
 pubtype: "conference"
 project: ""
 paperurl: https://link.springer.com/chapter/10.1007/978-3-031-27077-2_34
+pdf: https://dl.acm.org/doi/abs/10.1007/978-3-031-27077-2_34
 ---
