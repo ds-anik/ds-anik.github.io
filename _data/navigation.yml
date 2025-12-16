@@ -14,8 +14,8 @@ main:
   - title: "CV"
     url: /files/CV_One_Page.pdf
 
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+  #  url: /markdown/
 
   #- title: "Talks"
   #  url: /talks/

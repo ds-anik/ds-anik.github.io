@@ -7,12 +7,12 @@
 
 # Site Settings
 locale: "en-US"
-title: "Alireza Nik"
+title: "Alireza's Homepage"
 title_separator: "-"
 name: &name "Alireza Nik"
-description: &description "personal description"
-url: https://ds-anik.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl: "" # the subpath of your site, e.g. "/blog"
+description: &description "Alireza Nik's Academic Portfolio"
+url: https://ds-anik.github.io
+baseurl: ""
 repository: "ds-anik/ds-anik.github.io"
 teaser: # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs: false # true, false (default)
@@ -78,9 +78,9 @@ analytics:
 
 # Site Author
 author:
-  name: "Alireza Hossein Zadeh Nik"
+  name: "Alireza Nik"
   avatar: "photo_2025-12-16 14.56.46.jpeg"
-  bio: "PhD student @ OsloMet University"
+  bio: "PhD Candidate @ OsloMet University"
   employer: "SimulaMet"
   location: "Oslo, Norway"
   pubmed:
@@ -100,7 +100,7 @@ author:
   instagram:
   impactstory:
   lastfm:
-  linkedin:
+  linkedin: "alireza-hossein-zadeh-nik"
   orcid:
   pinterest:
   soundcloud:
