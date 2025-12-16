@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications of Alireza Nik"
+title: "Publications and Research Work"
 permalink: /publications/
 author_profile: true
 ---
@@ -10,11 +10,13 @@ author_profile: true
 You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-- [Conference or Workshop Papers](#conference-or-workshop-papers)
+- [Conference Papers](#conference-papers)
 - [Journal Articles](#journal-articles)
 - [Preprints or Under Review](#preprints-or-under-review)
 
-## Conference or Workshop Papers
+<br><br>
+
+## Conference Papers
 
 ---
 
