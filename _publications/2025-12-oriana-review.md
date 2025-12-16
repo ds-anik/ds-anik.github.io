@@ -1,7 +1,7 @@
 ---
 title: "When Silence is Safer: A Review of LLM Abstention in Healthcare"
 authbefore: "Oriana Presacan, "
-authafter: "Jaya Ojha, Vajira Thambawita, Bogdan Ionescu, Michael A. Riegler"
+authafter: ", Jaya Ojha, Vajira Thambawita, Bogdan Ionescu, Michael A. Riegler"
 collection: publications
 permalink: /publication/2025-12-oriana-review
 date: 2025-12-14
