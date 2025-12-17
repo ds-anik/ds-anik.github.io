@@ -14,7 +14,8 @@ if (toggleButton) {
     }
   }
   
-  toggleButton.addEventListener("click", function () {
+  toggleButton.addEventListener("click", function (e) {
+    e.preventDefault();
     const isDarkMode = document.documentElement.classList.contains("dark-mode");
     
     if (isDarkMode) {
