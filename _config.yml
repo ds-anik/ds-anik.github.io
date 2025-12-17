@@ -7,7 +7,7 @@
 
 # Site Settings
 locale: "en-US"
-title: "     Homepage"
+title: "Homepage"
 title_separator: "-"
 name: &name "Alireza Nik"
 description: &description "Alireza Nik's Academic Portfolio"

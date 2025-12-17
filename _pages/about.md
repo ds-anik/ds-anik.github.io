@@ -15,6 +15,10 @@ Prior to my PhD, I worked as a Data Scientist at Schlumberger (now SLB), develop
 
 ## Latest News
 
-- **Dec 2025**: Started my PhD studies at SimulaMet and OsloMet University, focusing on energy-efficient AI.
-- **Nov 2025**: Published "Energy-Conscious LLM Decoding" preprint.
-- **Oct 2025**: Joined the Green AI research group at SimulaMet.
+- **10.122025**: [Abstention Review ](https://www.nature.com/articles/s41598-025-31896-0) paper submitted to Nature npj Digital Medicine.
+- **27.11.2025**: [Paper](https://www.nature.com/articles/s41598-025-31896-0) got accepted at Nature Scientific Reports.
+- **17.11.2025**: Attended the Tekna PhD gathering conference in Scandic Solli Hotel, OSLO.
+- **30.10.2025**: [Paper](https://arxiv.org/abs/2508.13580) got accepted at International conference on Multi-Media Modeling (MMM).
+- **10.06.2025**: Attended 5-day NORA summer school on Multi-Modal Learning in Norway.
+- **17.06.2024**: Attended summer school on High Power Computing in University of Trento, Italy.
+- **10.06.2024**: Attended 5-day NORA summer school on Generative Modeling in Norway.
