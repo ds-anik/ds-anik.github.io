@@ -22,11 +22,11 @@ body {
   }
 }
 
-.repo-img-light {
+.repo a img.repo-img-light {
   display: block;
 }
 
-.repo-img-dark {
+.repo a img.repo-img-dark {
   display: none;
 }
 
@@ -54,8 +54,8 @@ body {
       width: 100%;
       max-width: 450px; /* Prevent excessive scaling on wide screens */
       height: auto; /* Maintain aspect ratio, no cropping */
-      margin: 0 auto; /* Center the image if it's smaller than variable width container */
-      display: block; /* Remove inline gap */
+      margin: 0 auto; /* Center the image */
+      /* display: block handled by specific classes */
     }
   }
 }
