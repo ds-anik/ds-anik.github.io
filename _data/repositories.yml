@@ -4,6 +4,6 @@ github_users:
 
 github_repos:
   - ds-anik/Energy-Conscious-LLM-Decoding
-  - orianapresacan/decoding_healthcare
   - ds-anik/Synthetic_Tabular_Healthcare_Data_Generation
+  - orianapresacan/decoding_healthcare
   - ds-anik/KAN-VAE
