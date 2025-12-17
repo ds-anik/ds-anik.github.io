@@ -52,7 +52,9 @@ body {
     
     img {
       width: 100%;
+      max-width: 450px; /* Prevent excessive scaling on wide screens */
       height: auto; /* Maintain aspect ratio, no cropping */
+      margin: 0 auto; /* Center the image if it's smaller than variable width container */
       display: block; /* Remove inline gap */
     }
   }
