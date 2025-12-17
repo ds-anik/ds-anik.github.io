@@ -94,6 +94,14 @@ html.dark-mode {
      }
   }
 
+  .repo-img-light {
+    display: none;
+  }
+  
+  .repo-img-dark {
+    display: block;
+  }
+
   /* Input fields (search etc) */
   input[type="text"], input[type="search"] {
       background-color: #0d1117;

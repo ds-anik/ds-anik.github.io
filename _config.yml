@@ -70,6 +70,10 @@ social:
   name: # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
+# Repository Theme (for Code page)
+repo_theme_light: default
+repo_theme_dark: dark
+
 # Analytics
 analytics:
   provider: "google-universal" # false (default), "google", "google-universal", "custom"
