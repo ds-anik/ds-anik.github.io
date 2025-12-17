@@ -15,7 +15,7 @@ Prior to my PhD, I worked as a Data Scientist at Schlumberger (now SLB), develop
 
 ## Latest News
 
-- **10.122025**: [Abstention Review ](https://www.nature.com/articles/s41598-025-31896-0) paper submitted to Nature npj Digital Medicine.
+- **10.12.2025**: [Abstention Review ](https://www.researchsquare.com/article/rs-8148261/v1) paper submitted to Nature npj Digital Medicine.
 - **27.11.2025**: [Paper](https://www.nature.com/articles/s41598-025-31896-0) got accepted at Nature Scientific Reports.
 - **17.11.2025**: Attended the Tekna PhD gathering conference in Scandic Solli Hotel, Oslo.
 - **30.10.2025**: [Paper](https://arxiv.org/abs/2508.13580) got accepted at conference on Multi-Media Modeling (MMM).
