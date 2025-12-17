@@ -30,13 +30,21 @@ html.dark-mode {
   
   .greedy-nav {
     background-color: #252a34;
-    
+
     a {
       color: #e0e0e0;
     }
     
     .visible-links li:hover a { 
         color: #58a6ff;
+    }
+  }
+
+  .theme-toggle {
+    color: #e0e0e0;
+    
+    &:hover {
+      color: #58a6ff;
     }
   }
 
@@ -76,11 +84,6 @@ html.dark-mode {
 
   tr:nth-child(even) {
     background-color: #252a34;
-  }
-  
-  /* Archive items */
-  .archive__item-teaser {
-    // If there are images, maybe darken them slightly or leave as is
   }
   
   .page__footer {
