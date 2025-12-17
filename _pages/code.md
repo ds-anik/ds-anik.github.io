@@ -1,15 +1,15 @@
 ---
 layout: archive
-title: "Code"
+title: ""
 permalink: /code/
 author_profile: true
 ---
 
-Some of my recent projects and implementations.
+Selected implementations and codebases associated with my recent research papers.
 
 {% if site.data.repositories.github_repos %}
 
-<div class="repositories" style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
+<div class="repositories">
   {% for repo in site.data.repositories.github_repos %}
     {% include repo.html repository=repo %}
   {% endfor %}
