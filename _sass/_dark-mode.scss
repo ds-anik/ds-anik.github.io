@@ -1,0 +1,101 @@
+/* Dark Mode Styles */
+html.dark-mode {
+  background-color: #1e1e1e;
+  color: #c9d1d9;
+
+  body {
+    background-color: #1e1e1e;
+    color: #c9d1d9;
+  }
+
+  /* Headings */
+  h1, h2, h3, h4, h5, h6 {
+    color: #e0e0e0;
+  }
+
+  /* Links */
+  a {
+    color: #58a6ff;
+    
+    &:hover {
+      color: #79c0ff;
+    }
+  }
+
+  /* Masthead (Navbar) */
+  .masthead {
+    background-color: #252a34;
+    border-bottom: 1px solid #30363d;
+  }
+  
+  .greedy-nav {
+    background-color: #252a34;
+    
+    a {
+      color: #e0e0e0;
+    }
+    
+    .visible-links li:hover a { 
+        color: #58a6ff;
+    }
+  }
+
+  /* Sidebar */
+  .sidebar {
+     color: #c9d1d9; 
+  }
+  
+  .author__urls.social-icons {
+    background-color: #252a34;
+    color: #c9d1d9;
+    border-color: #30363d;
+    
+    .fa, .fas, .fab {
+        color: #c9d1d9;
+    }
+    
+    a:hover {
+        color: #58a6ff;
+    }
+    
+    li {
+        color: #c9d1d9;
+    }
+  }
+  
+  /* Tables */
+  table {
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+
+  th, td {
+    border: 1px solid #30363d;
+    padding: 8px;
+  }
+
+  tr:nth-child(even) {
+    background-color: #252a34;
+  }
+  
+  /* Archive items */
+  .archive__item-teaser {
+    // If there are images, maybe darken them slightly or leave as is
+  }
+  
+  .page__footer {
+     color: #8b949e;
+     
+     footer {
+        color: #8b949e;
+     }
+  }
+
+  /* Input fields (search etc) */
+  input[type="text"], input[type="search"] {
+      background-color: #0d1117;
+      color: #c9d1d9;
+      border: 1px solid #30363d;
+  }
+  
+}
