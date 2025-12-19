@@ -11,8 +11,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Code"
-    url: /code/
+  #- title: "Code"
+  #   url: /code/
 
   - title: "CV"
     url: /files/alireza_nik_CV_2025_new.pdf
